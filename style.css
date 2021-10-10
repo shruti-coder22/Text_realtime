@@ -1,0 +1,28 @@
+.heading {
+    width:100%;
+    box-shadow: 5px 5px 50px indigo;
+    font-size: 23px;
+    margin:0px;
+}
+
+.note {
+    font-size: 15px;
+    color: indigo;
+}
+
+.copyright_footer {
+    background-color: indigo;
+    color: floralwhite;
+    width:100%;
+    line-height: 3;
+    position: fixed;
+    bottom:0;
+    text-align: center;
+}
+
+canvas {
+    border-width: 5px;
+    border-color: lightseagreen;
+    border-style: groove;
+    background-color: indigo;
+}
